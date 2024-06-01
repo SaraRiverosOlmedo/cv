@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;}
+    
+main{
+    background-color: rgb(12, 25, 44);
+}
+
+
+.navbar{
+    background-color: #ff2d75;
+}
+.logo{
+    height: 45px;
+    width: 45px;
+}
+#div-img {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 40vh; 
+}
+
+#imagen-perfil{
+    width: 300px;
+    height: 250px;
+    border-radius: 100%;
+    justify-content: center; 
+    align-items: center; 
+    
+    
+}
+#div-nombre{
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    color: aliceblue;
+}
+
+#div-sobreMi{
+    width: 1000px;
+    height: 100px;
+    border-radius: 100%;
+    color: aliceblue;
+}
+
+.container-iconos{
+    margin-top: 30px;
+    display: flex;
+    font-size: 40px;
+    color:  #ff2d75;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-iconos .iconos{
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.container-iconos-contactos{
+    margin-top: 30px;
+    display: flex;
+    font-size: 20px;
+    color: #ff2d75;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-iconos-contactos .iconos-contactos{
+    display: inline;
+    margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+.container-iconos-contactos p {
+    display: inline; 
+}
+
+h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+hr{
+    color: #ff2d75;
+}
+
+#text-educacion{
+    text-align: center;
+    
+}
+
+h3, h4{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
